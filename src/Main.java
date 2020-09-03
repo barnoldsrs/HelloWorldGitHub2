@@ -3,5 +3,6 @@ public class Main {
     {
         System.out.println("Hello, this is GitHub2");
         System.out.println("another print line");
+        System.out.println("A third line here");
     }
 }
